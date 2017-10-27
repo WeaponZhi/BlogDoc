@@ -2,8 +2,7 @@
 
 >用激情诠释生活，用代码彰显个性
 
-大家好，我是小之，一名富有激情的程序员
-大家可以通过以下途径找到我，欢迎大家关注我，让我们一起进步。
+大家好，我是小之，一名富有激情的程序员。
 
 博文请在 **Issue** 中观看：
 
@@ -20,6 +19,8 @@
 [找工作第三十三天，我拿到了一份Offer](https://github.com/WeaponZhi/BlogDoc/issues/4)
 
 [一个 Android 程序员在新公司三个月的感受](https://github.com/WeaponZhi/BlogDoc/issues/5)
+
+大家可以通过以下途径找到我，欢迎大家关注我，让我们一起进步。
 
 ## 公众号：WeaponZhi
 
