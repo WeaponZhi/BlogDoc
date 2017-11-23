@@ -6,6 +6,14 @@
 
 博文请在 **Issue** 中观看：
 
+[AI 学习之路——轻松初探 Python 篇（一）](https://github.com/WeaponZhi/BlogDoc/issues/9)
+
+[AI 学习之路——轻松初探 Python 篇（二）](https://github.com/WeaponZhi/BlogDoc/issues/10)
+
+[AI 学习之路——轻松初探 Python 篇（三）](https://github.com/WeaponZhi/BlogDoc/issues/11)
+
+[Markdown 你真的懂了吗](https://github.com/WeaponZhi/BlogDoc/issues/12)
+
 [高效开发 MVVM 和 databinding 你需要使用的工具](https://github.com/WeaponZhi/BlogDoc/issues/8)
 
 [分享一些帮助你提升效(bi)率(ge)的干货！](https://github.com/WeaponZhi/BlogDoc/issues/7)
