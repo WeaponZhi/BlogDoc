@@ -16,6 +16,8 @@
 
 [AI 学习之路——轻松初探 Python 篇（五）](https://github.com/WeaponZhi/BlogDoc/issues/14)
 
+[AI 学习之路——轻松初探 Python 篇（六）](https://github.com/WeaponZhi/BlogDoc/issues/15)
+
 [Markdown 你真的懂了吗](https://github.com/WeaponZhi/BlogDoc/issues/12)
 
 [高效开发 MVVM 和 databinding 你需要使用的工具](https://github.com/WeaponZhi/BlogDoc/issues/8)
