@@ -18,6 +18,10 @@
 
 [AI 学习之路——轻松初探 Python 篇（六）](https://github.com/WeaponZhi/BlogDoc/issues/15)
 
+[使用Octave来学习Machine Learning(一)](https://github.com/WeaponZhi/BlogDoc/issues/16)
+
+[使用Octave来学习Machine Learning(二)](https://github.com/WeaponZhi/BlogDoc/issues/17)
+
 [Markdown 你真的懂了吗](https://github.com/WeaponZhi/BlogDoc/issues/12)
 
 [高效开发 MVVM 和 databinding 你需要使用的工具](https://github.com/WeaponZhi/BlogDoc/issues/8)
