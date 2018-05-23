@@ -6,6 +6,8 @@
 
 博文请在 **Issue** 中观看：
 
+[使用Python快速获取公众号文章定制电子书(二)](https://github.com/WeaponZhi/BlogDoc/issues/19)
+
 [使用Python快速获取公众号文章定制电子书(一)](https://github.com/WeaponZhi/BlogDoc/issues/18)
 
 [AI 学习之路——轻松初探 Python 篇（一）](https://github.com/WeaponZhi/BlogDoc/issues/9)
